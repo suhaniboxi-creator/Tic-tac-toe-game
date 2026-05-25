@@ -1,1 +1,1 @@
-#This is just a practice project on javascript!
+# This is just a practice project on javascript!
